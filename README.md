@@ -1,5 +1,5 @@
 # Popcorn Time Installer
-A distro-agnostic script to help install pct
+A distro-agnostic script to help install popcorn
 
 * I have nothing to do with the popcorn-time project
 
