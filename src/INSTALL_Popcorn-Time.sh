@@ -63,15 +63,6 @@ if [ -f $SOURCE"/Popcorn-Time" ];
 
 		/hackan :-)";
 
-		#Ta bort dessa kontroller efter bekräftat fungerar
-		sleep 3;
-		echo ""; echo; echo;
-		echo "ls /usr/share/applications | grep popcorntime"; echo;
-		sh -c "ls /usr/share/applications | grep popcorntime"; echo; 			echo;
-		sleep 3;
-		sh -c "nano /usr/share/applications/popcorntime.desktop";
-		#Ta bort ovan kontroller
-
 	else
 		echo;
 		echo "
