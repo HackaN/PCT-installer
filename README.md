@@ -1,8 +1,9 @@
-# PCT-installer
+# Popcorn Time Installer
 A distro-agnostic script to help install pct
 
+* I have nothing to do with the popcorn-time project
 
-* Of course I do only encourage streaming of legal content.
+* Of course I do only encourage BitTorrent for legal content.
 
 * Go to the movies more folks and enjoy the real popcorn where you can 
 even pull off 
